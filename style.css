@@ -1,0 +1,72 @@
+.body{
+  display: inline;
+  justify-content: center;
+  background: burlywood;
+  align-items: center;
+  margin: 0;
+}
+
+.card{
+  text-align: center;
+  align-items: center;
+  width:400px ;
+  height: 620px;
+  margin: 0 auto;
+  border: 2px solid white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top:50px ;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.quan{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.quan input{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.size{
+  margin-bottom: 20px;
+}
+.card-img-top{
+  width: 200px;
+  height: 250px;
+  padding-top: 20px;
+  
+}
+.card-title{
+  text-align: center;
+  color: azure;
+  font-size: 50px;
+}
+.card input{
+  border-radius: 15px;
+  width: 50px;
+  height: 20px;
+}
+.rating{
+  position: relative;
+  margin-left: 60%;
+}
+.dil{
+  text-align: left;
+  position: relative;
+  margin-left: 10px;
+}
+.achat{
+  display: flex;
+  position: relative;
+  margin-left: 300px;
+}
+.achat svg{
+  height: 30px;
+  width: 20px;
+}
+.btn{
+  border-radius: 10px;
+  height: 30px;
+  width: 60px;
+}
